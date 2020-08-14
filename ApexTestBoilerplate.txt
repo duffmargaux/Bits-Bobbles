@@ -1,0 +1,7 @@
+@istest
+public class <<TestClassFileName>> {
+
+    @isTest static void test_method_one(){
+        // Test code goes here
+    }
+}
